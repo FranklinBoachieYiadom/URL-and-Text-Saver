@@ -1,0 +1,13 @@
+{
+    "manifest_version":3,
+    "version":"1.0",
+    "name":"Leads Tracker",
+    "description":"This is a simple URL saver designed by Franklin Boachie-Yiadom, it allows you to save any url of your choice",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"icon.png"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
